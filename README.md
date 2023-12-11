@@ -59,9 +59,3 @@ After you have entered the input press 'enter' to run the code.
 ## Output Details
 The program will print courses (those having required number of TAs > 0) along with a list of Roll Numbers of TAs assigned to that course.
 The program will also save a .csv file having all the details of unassigned TAs in the same folder.
-
-For detailed instructions on how to run this program and interpret the output, refer to the code and report provided in this repository.
-
-**Author:** Aditya Dhaduk (B21AI014)
-**Course:** CSL3090: Artificial Intelligence
-**Date:** 12-10-2023
